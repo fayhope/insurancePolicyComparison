@@ -1,0 +1,42 @@
+[
+  {
+    "text": "This insurance policy offers comprehensive coverage for theft, fire damage, and liability for accidents occurring on the insured premises.",
+    "predicted_label": 15
+  },
+  {
+    "text": "The policy provides coverage limits up to \u00a35,000,000 for property damage and personal injury claims.",
+    "predicted_label": 15
+  },
+  {
+    "text": "This policy does not cover damages caused by natural disasters, such as earthquakes or floods.",
+    "predicted_label": 3
+  },
+  {
+    "text": "The insurance contract is valid for a duration of 12 months and can be renewed thereafter.",
+    "predicted_label": 5
+  },
+  {
+    "text": "Public liability insurance protects against claims made by third parties for injuries or damages that occur as a result of business operations.",
+    "predicted_label": 15
+  },
+  {
+    "text": "This policy is designed for freelancers and small business owners, providing essential liability protection.",
+    "predicted_label": 5
+  },
+  {
+    "text": "Coverage includes legal expenses in the event of a claim, ensuring financial protection throughout the process.",
+    "predicted_label": 15
+  },
+  {
+    "text": "You can cancel the policy within 14 days for a full refund of your premium, provided no claims have been made.",
+    "predicted_label": 5
+  },
+  {
+    "text": "Optional add-ons are available for accidental damage and equipment breakdown, tailored to the needs of the business.",
+    "predicted_label": 15
+  },
+  {
+    "text": "This health insurance plan excludes any pre-existing conditions and experimental treatments.",
+    "predicted_label": 14
+  }
+]

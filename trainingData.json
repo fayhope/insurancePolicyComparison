@@ -1,0 +1,155 @@
+[
+    {
+        "text": "This leaflet provides a summary of the significant features, benefits and limitations of the cover provided by the Zurich Insurance Company Ltd Trades and Professions policy. The full terms, conditions and exclusions are shown in the policy document. If you want to see full details of the cover, please refer to the policy document.",
+        "labels": {
+            "Topic": "Summary",
+            "Coverage/Limit": "Refer to policy document",
+            "Exclusions": "Refer to policy document",
+            "Notes": "Summary of features, benefits, and limitations"
+        }
+    },
+    {
+        "text": "This policy is designed for trades people, skilled workers and professionals. Public and products liability cover is insured as standard with a number of optional covers to tailor the product to suit the needs of the trade or profession. Businesses must be based in the UK, Channel Islands or the Isle of Man. The duration of this non-investment insurance contract is 12 months.",
+        "labels": {
+            "Topic": "Policy Information",
+            "Coverage/Limit": "Public and products liability cover",
+            "Exclusions": "Businesses outside the UK, Channel Islands, or the Isle of Man",
+            "Notes": "Duration: 12 months"
+        }
+    },
+    {
+        "text": "Provides insurance protection for any legal liability arising out of accidental bodily injury to third parties or for accidental damage to their property.",
+        "labels": {
+            "Topic": "Public Liability",
+            "Coverage/Limit": "Insurance protection for accidental bodily injury and property damage",
+            "Exclusions": " ",
+            "Notes": " "
+        }
+    },
+    {
+        "text": "Standard wordings/limits: Cover limit: Variable limits up to £10,000,000 Public liability cover for manual work anywhere within GB, NI, the IOM and Channel Islands and in addition for temporary visits in any member state of the EU, EEA or Switzerland Included Public liability cover for non-manual work carried out during temporary visits anywhere in the world Included Products liability cover for anywhere in the world in respect of products supplied in or from GB, NI, the Channel Islands or IOM Included Contingent motor liability (non-owned vehicles) Included Court attendance costs Directors/business partners £750, employees £250 Criminal defence costs - Health and Safety at Work acts Included up to limit of indemnity Criminal defence costs - Corporate Manslaughter and Corporate Homicide Act 2007 £2,000,000 or the limit in the schedule in any one period of insurance whichever is the lesser Criminal defence costs - Part II of Consumer Protection Act 1987 and Food Safety Act 1990 £25,000 each act Data protection legislation £1,000,000 Defective Premises Act 1972 Included Environmental clean-up costs £1,000,000 Indemnity to directors and employees Included Indemnity to principal Included Joint liabilities Included Libel and slander £250,000 Personal liability Included Treatment risk Included",
+        "labels": {
+            "Topic": "Coverage Details",
+            "Coverage/Limit": "Variable limits up to £10,000,000, Included",
+            "Exclusions": " ",
+            "Notes": "Detailed coverage includes public liability, products liability, criminal defence costs, environmental clean-up costs, data protection legislation, and more"
+        }
+    },
+    {
+        "text": "Significant exclusions: Manual work undertaken outside the European Union, the European Economic Area or Switzerland, Property being worked upon, Liability arising from the ownership, possession or use by you, or on your behalf, of any mechanically propelled motor vehicle or mobile plant which is licensed for road use, for which compulsory motor insurance is required, Products no longer in your control or custody, Property belonging to you or borrowed, rented, leased or hired to you, Vessels and craft",
+        "labels": {
+            "Topic": "Public Liability Exclusions",
+            "Coverage/Limit": " ",
+            "Exclusions": "Manual work outside EU/EEA/Switzerland, Property being worked upon, Mechanically propelled vehicles, Products out of control, Property belonging to you or borrowed, Vessels and craft",
+            "Notes": " "
+        }
+    },
+    {
+        "text": "Products liability significant exclusions: Programming or loss of information, Exports to the USA or Canada, Replacing, rectifying, recalling, removing or guaranteeing the performance of any products, Aircraft products",
+        "labels": {
+            "Topic": "Products Liability Exclusions",
+            "Coverage/Limit": "",
+            "Exclusions": "Programming/loss of information, Exports to USA/Canada, Product performance issues, Aircraft products",
+            "Notes": " "
+        }
+    },
+    {
+        "text": "Public and products liability significant exclusions: Asbestos",
+        "labels": {
+            "Topic": "Public and Products Liability Exclusions",
+            "Coverage/Limit": "",
+            "Exclusions": "Asbestos",
+            "Notes": " "
+        }
+    },
+    {
+        "text": "Automobile insurance policies provide coverage for damages or injuries caused by a car accident. Coverage typically includes property damage, bodily injury, and liability.",
+        "labels": {
+            "Topic": "Automobile Insurance",
+            "Coverage/Limit": "Property damage, bodily injury, liability",
+            "Exclusions": "Excludes intentional damage, wear and tear",
+            "Notes": "Standard auto insurance policy"
+        }
+    },
+    {
+        "text": "Public liability insurance provides protection for businesses in case of accidental injury to third parties or damage to third-party property. This policy is essential for tradespeople and contractors.",
+        "labels": {
+            "Topic": "Public Liability Insurance",
+            "Coverage/Limit": "Third-party injury or property damage",
+            "Exclusions": "Excludes damage to the insured's property",
+            "Notes": "Covers legal fees and compensation claims"
+        }
+    },
+    {
+        "text": "Homeowner’s insurance typically covers the dwelling, personal property, and liability for accidents that occur on the property. It often includes coverage for fire, theft, and certain natural disasters.",
+        "labels": {
+            "Topic": "Homeowner's Insurance",
+            "Coverage/Limit": "Dwelling, personal property, liability",
+            "Exclusions": "Excludes floods, earthquakes, intentional damage",
+            "Notes": "Optional riders available for extended coverage"
+        }
+    },
+    {
+        "text": "Life insurance policies pay out a lump sum to the beneficiaries upon the insured's death. Policies may include coverage for terminal illness and critical illness as add-ons.",
+        "labels": {
+            "Topic": "Life Insurance",
+            "Coverage/Limit": "Death benefit, terminal illness",
+            "Exclusions": "Suicide (within the first two years), fraudulent claims",
+            "Notes": "Critical illness cover may be optional"
+        }
+    },
+    {
+        "text": "Health insurance provides coverage for medical expenses, including hospital stays, surgeries, and outpatient care. Policies often have deductibles and co-payments.",
+        "labels": {
+            "Topic": "Health Insurance",
+            "Coverage/Limit": "Medical expenses, hospital stays, surgeries",
+            "Exclusions": "Pre-existing conditions, cosmetic procedures",
+            "Notes": "Varies by policy; check for network providers"
+        }
+    },
+    {
+        "text": "If you die while you have a Life Insurance Policy, Aviva will pay a lump sum. You can choose life cover or life and critical illness cover. Both include terminal illness cover.",
+        "labels": {
+            "Topic": "Life Insurance",
+            "Coverage/Limit": "Lump sum payout for death or terminal illness",
+            "Exclusions": "Suicide or self-inflicted injury within the first 12 months",
+            "Notes": "Terminal illness cover only applies before the last 12 months of the policy term."
+        }
+    },
+    {
+        "text": "Life and critical illness cover pays out if diagnosed with or after surgery for one of 32 defined critical illnesses. The policy also includes terminal illness cover.",
+        "labels": {
+            "Topic": "Critical Illness Cover",
+            "Coverage/Limit": "32 defined critical illnesses and terminal illness",
+            "Exclusions": "Non-defined critical illnesses and less severe conditions",
+            "Notes": "Critical illness cover ends once a payout is made."
+        }
+    },
+    {
+        "text": "Children’s critical illness cover is included, covering children from 30 days until their 18th birthday or 21st birthday if in full-time education. A claim pays £25,000 or 50% of the cover amount.",
+        "labels": {
+            "Topic": "Children's Critical Illness Cover",
+            "Coverage/Limit": "£25,000 or 50% of cover amount",
+            "Exclusions": "Pre-existing conditions or conditions before policy start",
+            "Notes": "Applies to all natural, step, and adopted children."
+        }
+    },
+    {
+        "text": "Premiums for the policy are guaranteed, meaning the amount remains the same every month throughout the policy term.",
+        "labels": {
+            "Topic": "Premiums",
+            "Coverage/Limit": "Fixed monthly premiums",
+            "Exclusions": " ",
+            "Notes": "The premium is based on cover type, age, health, and lifestyle."
+        }
+    },
+    {
+        "text": "The policy can be canceled at any time. If canceled within 30 days of receiving the policy schedule, any premiums paid will be refunded.",
+        "labels": {
+            "Topic": "Cancellation Policy",
+            "Coverage/Limit": "Refund within 30 days",
+            "Exclusions": "No refund after 30 days",
+            "Notes": "The policy can be canceled but cannot be cashed in."
+        }
+    }
+]
